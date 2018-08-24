@@ -7,11 +7,11 @@ def deal_card
 end
 
 def display_card_total(card_total)
-  puts "Your cards add up to #{card_total}."
+  puts "Your cards add up to #{card_total}"
 end
 
 def prompt_user
-  puts "Type 'h' to hit or 's' to stay."
+  puts "Type 'h' to hit or 's' to stay"
 end
 
 def initial_round
@@ -45,7 +45,7 @@ end
 
 
 def invalid_command
-  puts "Please enter a valid command."
+  puts "Please enter a valid command"
 end
 
 def runner
