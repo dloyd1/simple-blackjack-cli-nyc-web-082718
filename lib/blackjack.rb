@@ -1,8 +1,3 @@
-
-def welcome
-  puts "Welcome!"
-end
-
 def deal_card
   rand(1..11)
 end
